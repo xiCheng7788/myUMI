@@ -2,14 +2,19 @@
 
 ## Getting Started
 
-Install dependencies,
+umi文档
+https://umijs.org/zh-CN/docs/getting-started#%E9%83%A8%E7%BD%B2%E5%8F%91%E5%B8%83
 
-```bash
-$ yarn
+
+Install dependencies,
+安装包
+
+```
+$ npm i
 ```
 
-Start the dev server,
+启动
 
 ```bash
-$ yarn start
+$ 
 ```
