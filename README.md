@@ -16,5 +16,10 @@ $ npm i
 启动
 
 ```bash
-$ 
+$ npm run start
 ```
+
+
+其他
+1，前端安装步骤
+https://www.yuque.com/yushi-vowa5/uhzebz/vpgzrv
