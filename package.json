@@ -22,7 +22,7 @@
   "dependencies": {
     "@umijs/preset-react": "1.x",
     "@umijs/test": "^3.2.3",
-    "lint-staged": "^10.0.7",
+    "lint-staged": "^13.2.1",
     "prettier": "^1.19.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
